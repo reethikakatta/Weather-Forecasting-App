@@ -3,7 +3,7 @@ Predicts current weather conditions for a given location
 # OVERVIEW
 The weather for the day determines a lot of our activities. An application that can give you regular weather updates, customized to your needs would be super handy, don't you think?
 # GOAL
-AS A traveler, I WANT to see the weather outlook for multiple cities. SO THAT I can plan a trip accordingly.
+As A traveler, I WANT to see the weather outlook for multiple cities. SO THAT I can plan a trip accordingly.
 # WORKING METHODOLOGY
 ## Features
 ### 1. DESCRIPTION :
